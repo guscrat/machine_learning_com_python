@@ -1,0 +1,1 @@
+Arquivo para gerar pasta "dados", onde serão salvos todos os arquivos de dados utilizados no curso.
